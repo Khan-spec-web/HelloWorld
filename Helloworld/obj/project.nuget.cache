@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xdr75vEcDVI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AFZAL KHAN\\source\\repos\\Helloworld\\Helloworld\\Helloworld.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AFZAL KHAN\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.6\\microsoft.dotnet.ilcompiler.8.0.6.nupkg.sha512",
+    "C:\\Users\\AFZAL KHAN\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.6\\microsoft.net.illink.tasks.8.0.6.nupkg.sha512",
+    "C:\\Users\\AFZAL KHAN\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.6\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
